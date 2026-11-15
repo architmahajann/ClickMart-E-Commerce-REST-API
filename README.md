@@ -1,4 +1,4 @@
-# Django RAG Implementation
+# ClickMart: E-Commerce REST API
 
 Backend API for a shopping application built with Django and Django REST Framework. The service provides email-based user accounts, JWT authentication, product browsing, shopping carts, and order checkout.
 
